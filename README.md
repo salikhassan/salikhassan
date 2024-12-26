@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a motivated individual passionate about solvin
 
 ### [TaskNova](https://tasknova.streamlit.app/)
 A minimalistic to-do app built using Python and Streamlit, designed to improve productivity with a sleek interface.  
-![TaskNova Screenshot](images/tasknova.png)
+![TaskNova Screenshot](task-nova/tasknova.png)
 
 ---
 
