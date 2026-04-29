@@ -1,49 +1,56 @@
-# Hi there, I'm Salik Hassan! 👋
+# Hi, I'm Salik Hassan! 👋
 
-🎓 **Computer Science Student**  
-💻 **Aspiring Full stack Developer and AI enthusiast**  
-♟️ **Chess Enthusiast aiming for mastery**  
+🎓 Computer Science @ York University  
+📊 Aspiring Data Analyst & Strategist  
 
-Welcome to my GitHub profile! I'm a motivated individual passionate about solving problems, creating impactful projects, and exploring the endless possibilities in tech and AI.
-
----
-
-## 🚀 About Me
-- 💻 Exploring **Python**, **AI**, and **Web Development**.
-- 🎯 My goals include contributing to open-source, mastering chess, and building innovative applications.
-- 📜 Interested in Machine Learning, Artificial Intelligence, and Data Science.
-- 🎮 Hobbies: Playing chess, coding, and experimenting with new technologies.
+I’m a technical problem-solver who bridges the gap between software engineering and data-driven strategy. With a background in Automation Testing and Quality Control, I have a *detective mindset* — I enjoy digging into messy datasets to uncover patterns that actually matter.
 
 ---
 
-## 📂 Featured Project
+## 🚀 What I'm Focused On
 
-### [TaskNova](https://tasknova.streamlit.app/)
-A minimalistic to-do app built using Python and Streamlit, designed to improve productivity with a sleek interface.  
-![TaskNova Screenshot](https://github.com/salikhassan/task-nova/blob/master/tasknova.png)
+**📊 Data Storytelling**  
+Using Python to turn raw data into clear, actionable insights  
 
----
+**⚙️ Process Automation**  
+Building scripts to reduce manual work and improve efficiency  
 
-## 🌟 Skills
-- **Languages**: Python, SQL, Java, VBScript, C, C++, JavaScript, HTML, CSS
-- **Frameworks**: Selenium, Flask, Streamlit, Tkinter, JUnit, JavaServer Faces
-- **Developer tools**:  Microsoft Azure, HP ALM, Git, UFT, Linux, Jupyter Notebook, WordPress
-- **Libraries**: PySimpleGUI, GeoPy, OpenCV, SQLite
+**📈 Predictive Thinking**  
+Exploring Machine Learning and Database Fundamentals through coursework and projects  
 
 ---
 
-## 📫 Get in Touch
-- **Email**: salik28@my.yorku.ca  
-- **LinkedIn**: [Salik Hassan](https://www.linkedin.com/in/salikhassan/)  
+## 📊 Featured Project
 
-Feel free to reach out to discuss projects, collaborations, or just say hello!
+### 🏏 [T20 Cricket Data Analysis](https://github.com/salikhassan/t20-cricket-data-analysis)
 
----
-
-## 💡 Fun Fact
-I am an avid chess player with a dream to master the game. My current chess.com ELO is 550-600, and I'm working hard to improve every day. Let's play a game sometime!
+- Built a performance ranking system using **Python (Pandas, NumPy)**  
+- Developed a custom **“Greatness Score”** to evaluate players based on strike rate, consistency, and boundary efficiency  
+- Visualized trends using **Matplotlib** and **Seaborn** to simplify complex data  
 
 ---
 
-⭐ **If you find my work interesting, feel free to star and fork my repositories!**
+## 🛠️ Technical Toolkit
 
+**📊 Data Analysis**  
+Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (SQLite), Excel, Jupyter Notebook  
+
+**☁️ Database & Cloud**  
+Microsoft Azure, SQLite  
+
+**💻 Development & Automation**  
+Java, Selenium, Flask, Streamlit, Git, Linux  
+
+---
+
+## ♟️ Beyond the Code
+
+- ♟️ Improving my chess game (currently ~600 ELO) — treating every match like a data problem  
+- 🏏 Organized 10+ cricket tournaments, managing teams, logistics, and community engagement  
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/salikhassan  
+- 📧 Email: salik28@my.yorku.ca
